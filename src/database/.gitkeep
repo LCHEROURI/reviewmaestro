@@ -1,0 +1,2 @@
+Keep this directory for local SQLite databases.
+Runtime database files are intentionally ignored.
